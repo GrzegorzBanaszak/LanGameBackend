@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanGameBackend.Application", "LanGameBackend.Application\LanGameBackend.Application.csproj", "{6B31BBD9-C864-4D2A-8667-85553E233258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanGameBackend.Contracts", "LanGameBackend.Contracts\LanGameBackend.Contracts.csproj", "{0F812B34-DA80-43F5-8B1B-BB43CB87033D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanGameBackend.Domain", "LanGameBackend.Domain\LanGameBackend.Domain.csproj", "{18DE8035-5B7D-4760-AB5D-E4C56B1D61F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanGameBackend.Infrastructure", "LanGameBackend.Infrastructure\LanGameBackend.Infrastructure.csproj", "{2C81949D-20A6-4FF7-BC44-FC8F056F2A31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanGameBackend.Api", "LanGameBackend.Api\LanGameBackend.Api.csproj", "{68C18990-F367-44BF-93D7-9DDE69C30504}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B31BBD9-C864-4D2A-8667-85553E233258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B31BBD9-C864-4D2A-8667-85553E233258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B31BBD9-C864-4D2A-8667-85553E233258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B31BBD9-C864-4D2A-8667-85553E233258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F812B34-DA80-43F5-8B1B-BB43CB87033D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F812B34-DA80-43F5-8B1B-BB43CB87033D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F812B34-DA80-43F5-8B1B-BB43CB87033D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F812B34-DA80-43F5-8B1B-BB43CB87033D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18DE8035-5B7D-4760-AB5D-E4C56B1D61F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DE8035-5B7D-4760-AB5D-E4C56B1D61F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DE8035-5B7D-4760-AB5D-E4C56B1D61F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DE8035-5B7D-4760-AB5D-E4C56B1D61F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C81949D-20A6-4FF7-BC44-FC8F056F2A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C81949D-20A6-4FF7-BC44-FC8F056F2A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C81949D-20A6-4FF7-BC44-FC8F056F2A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C81949D-20A6-4FF7-BC44-FC8F056F2A31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68C18990-F367-44BF-93D7-9DDE69C30504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C18990-F367-44BF-93D7-9DDE69C30504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C18990-F367-44BF-93D7-9DDE69C30504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C18990-F367-44BF-93D7-9DDE69C30504}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4611593-1B26-45A9-8C37-486FE8880CFE}
+	EndGlobalSection
+EndGlobal

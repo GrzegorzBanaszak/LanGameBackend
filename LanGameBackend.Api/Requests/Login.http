@@ -1,0 +1,6 @@
+@LanGameBackend.Api_HostAddress = http://localhost:5092
+
+GET {{LanGameBackend.Api_HostAddress}}/api/login
+Accept: application/json
+
+###
